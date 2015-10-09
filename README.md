@@ -1,0 +1,2 @@
+# Common-FAQs-on-Dedicated-Server-Hosting
+When buying a dedicated server, there are several questions on it. Once commonly asked question is that how many websites can be hosted  on the sever? There are several answers to this question as the number depends on the customer's requirements. Also, there are several factors that influence the number of websites to be hosted on a dedicated server. Learn about them here...http://bodhost.com/blog/dedicated-server-faqs-how-many-websites-can-i-host-with-my-dedicated-server/
